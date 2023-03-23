@@ -1,3 +1,9 @@
+# Work In Progress (WIP)
+
+## This will be the front-end layer (website) that manages user interaction with an ML-trained model on Brandon Johnson's platform
+
+------------
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
 # Bluise - A Nuxt.js & Netlify CMS boilerplate.
